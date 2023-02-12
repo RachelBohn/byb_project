@@ -1,2 +1,2 @@
-// I print out the message “Hello World!”
-console.log("Hello World!");
+// I print out the message “Git is awesome"
+console.log("Git is awesome");
